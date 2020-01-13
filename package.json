@@ -1,0 +1,18 @@
+{
+  "name": "olx-search",
+  "version": "1.0.0",
+  "description": "Buscando produtos de forma mais fácil na olx",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cheerio-advanced-selectors": "^2.0.1",
+    "cheerio-eq": "^1.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Talha",
+  "license": "ISC"
+}

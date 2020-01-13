@@ -1,0 +1,3 @@
+usaremos o cheerio =>  uma implementação parecida com jquery
+
+npm i --save cheerio request
